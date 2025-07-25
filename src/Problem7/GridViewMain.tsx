@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, View, StyleSheet } from 'react-native';
-import Cards from './Cards';
+import Cards from '../Problem2/Cards';
 
 const GridViewMain = () => {
   return (
